@@ -27,7 +27,7 @@
             <div class="card">
                 <img src="{{ asset('images/3.png') }}" class="card-img" alt="Product 3">
                 <div class="card-body">
-                    <h5 class="card-title">Pasta</h5>
+                    <h5 class="card-title">Endurance Training</h5>
                     <p class="card-text">Price: $ 350</p>
                 </div>
             </div>
